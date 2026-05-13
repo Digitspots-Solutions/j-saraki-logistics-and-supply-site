@@ -1,0 +1,42 @@
+{
+  "businessName": "J Saraki Logistics and Supply",
+  "industry": "Manufacturing & Logistics",
+  "tone": "professional and reliable",
+  "tagline": "Your Trusted Partner in Manufacturing Logistics Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "J Saraki Logistics and Supply - Delivering Excellence in Manufacturing Support Services. Based in Eleme, Rivers State, we provide comprehensive logistics and supply chain solutions tailored for the manufacturing and petrochemical industry. With strategic location at Indorama Petrochemical Model Trailer Park, we ensure seamless operations for your business.",
+      "imagePrompt": "Photorealistic wide shot of modern industrial logistics facility in Nigeria, heavy-duty trucks lined up at a well-organized trailer park, industrial petrochemical plants in background, professional lighting, blue sky with some clouds, sense of scale and efficiency, high-quality commercial photography",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "J Saraki Logistics and Supply is a leading provider of logistics and supply chain solutions serving the manufacturing sector in Eleme and across Rivers State. Strategically positioned at the Indorama Petrochemical Model Trailer Park along Refinery Road, we leverage our prime location to deliver timely, efficient, and cost-effective services to manufacturing plants, petrochemical facilities, and industrial operations throughout the region. Our commitment to reliability, safety, and operational excellence has made us the preferred logistics partner for businesses requiring consistent, professional support services.",
+      "imagePrompt": "Professional photorealistic image of Nigerian logistics company operations, warehouse interior with organized inventory, modern fleet of trucks visible through large doors, professional staff in safety gear coordinating shipments, natural lighting, industrial professionalism, high detail",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Transportation & Haulage: Heavy-duty truck services for raw materials and finished goods, specialized in petrochemical and manufacturing cargo with experienced drivers and well-maintained fleet.\n\nSupply Chain Management: End-to-end logistics coordination, inventory management, and timely delivery solutions designed to keep your manufacturing operations running smoothly.\n\nWarehouse & Storage: Secure storage facilities for raw materials, equipment, and finished products with proper handling procedures and inventory tracking systems.\n\nIndustrial Supply: Procurement and delivery of industrial supplies, equipment, and materials required for manufacturing operations, ensuring consistent availability.\n\nFleet Management: Professional fleet coordination and management services for manufacturing plants requiring dedicated logistics support and regular transportation schedules.",
+      "imagePrompt": "Photorealistic collage-style image showing various logistics operations in Nigerian industrial setting: heavy trucks being loaded, warehouse with organized shelving, workers in safety gear managing inventory, forklift operations, modern logistics technology, professional and efficient atmosphere",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to streamline your manufacturing logistics? Contact J Saraki Logistics and Supply today for reliable, professional service. We're here to support your business operations with comprehensive logistics solutions tailored to your needs. Reach out now for quotes, inquiries, or to discuss how we can serve your manufacturing facility.",
+      "imagePrompt": "Professional photorealistic image of modern Nigerian business office reception area, clean and organized with industrial aesthetic, large windows showing trailer park outside, professional atmosphere, welcoming environment, natural lighting, contemporary design",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 803 278 7170",
+    "email": "info@jsarakilogistics.com",
+    "address": "Indorama Petrochemical Model Trailer Park, Refinery Road, Eleme Local Government Area, Rivers State, Nigeria",
+    "whatsapp": "https://wa.me/2348032787170"
+  }
+}
