@@ -1,41 +1,48 @@
 {
-  "businessName": "J Saraki Logistics and Supply",
-  "industry": "Manufacturing & Logistics",
-  "tone": "professional and reliable",
-  "tagline": "Your Trusted Partner in Manufacturing Logistics Solutions",
+  "businessName": "NJD Jay Solar Solutions Limited",
+  "industry": "Renewable Energy & Oil/Gas",
+  "tone": "professional, technical, authoritative",
+  "tagline": "Powering Nigeria's Future with Clean, Reliable Off-Grid Energy Solutions",
   "sections": [
     {
       "id": "hero",
-      "name": "Hero",
-      "copy": "J Saraki Logistics and Supply - Delivering Excellence in Manufacturing Support Services. Based in Eleme, Rivers State, we provide comprehensive logistics and supply chain solutions tailored for the manufacturing and petrochemical industry. With strategic location at Indorama Petrochemical Model Trailer Park, we ensure seamless operations for your business.",
-      "imagePrompt": "Photorealistic wide shot of modern industrial logistics facility in Nigeria, heavy-duty trucks lined up at a well-organized trailer park, industrial petrochemical plants in background, professional lighting, blue sky with some clouds, sense of scale and efficiency, high-quality commercial photography",
+      "name": "Hero Section",
+      "copy": "NJD Jay Solar Solutions Limited - Your Trusted Partner in Off-Grid Power Solutions. As Nigeria's premier renewable energy strategist, we deliver comprehensive solar and off-grid power systems for industrial, commercial, and residential applications. From Eleme to every corner of Rivers State and beyond, we're engineering a sustainable energy future. Contact us today for a free consultation.",
+      "imagePrompt": "Expansive aerial view of a Nigerian industrial facility with solar panel arrays gleaming under bright tropical sunlight, oil and gas infrastructure in background, modern solar inverters and battery storage systems in foreground, professional industrial setting in Rivers State Nigeria, photorealistic, high-resolution, golden hour lighting, representing clean energy transition",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "J Saraki Logistics and Supply is a leading provider of logistics and supply chain solutions serving the manufacturing sector in Eleme and across Rivers State. Strategically positioned at the Indorama Petrochemical Model Trailer Park along Refinery Road, we leverage our prime location to deliver timely, efficient, and cost-effective services to manufacturing plants, petrochemical facilities, and industrial operations throughout the region. Our commitment to reliability, safety, and operational excellence has made us the preferred logistics partner for businesses requiring consistent, professional support services.",
-      "imagePrompt": "Professional photorealistic image of Nigerian logistics company operations, warehouse interior with organized inventory, modern fleet of trucks visible through large doors, professional staff in safety gear coordinating shipments, natural lighting, industrial professionalism, high detail",
+      "copy": "NJD Jay Solar Solutions Limited (also known as NJD Jay Off-Grid Power Co) is a leading renewable energy company strategically located in Eleme Local Government Area, Rivers State. Positioned at the heart of Nigeria's oil and gas corridor at Indorama Petrochemical Model Trailer Park, Refinery Road, Eleme, we understand the unique power challenges facing Nigerian industries and businesses.\n\nLed by experienced renewable energy strategists, we specialize in designing, installing, and maintaining cutting-edge off-grid solar power systems that guarantee uninterrupted energy supply. Our solutions eliminate dependence on unreliable grid power and expensive diesel generators, offering sustainable, cost-effective alternatives for factories, warehouses, office complexes, hotels, hospitals, and residential estates.\n\nWith deep expertise in both the oil & gas sector and renewable energy technology, we deliver world-class power solutions tailored to Nigeria's demanding operational environment.",
+      "imagePrompt": "Professional Nigerian renewable energy team inspecting large-scale solar installation at an industrial site, technicians in safety gear examining solar panels and monitoring equipment, Eleme Rivers State industrial landscape in background, modern renewable energy infrastructure, photorealistic corporate photography style, bright natural lighting",
       "layout": "split"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "Transportation & Haulage: Heavy-duty truck services for raw materials and finished goods, specialized in petrochemical and manufacturing cargo with experienced drivers and well-maintained fleet.\n\nSupply Chain Management: End-to-end logistics coordination, inventory management, and timely delivery solutions designed to keep your manufacturing operations running smoothly.\n\nWarehouse & Storage: Secure storage facilities for raw materials, equipment, and finished products with proper handling procedures and inventory tracking systems.\n\nIndustrial Supply: Procurement and delivery of industrial supplies, equipment, and materials required for manufacturing operations, ensuring consistent availability.\n\nFleet Management: Professional fleet coordination and management services for manufacturing plants requiring dedicated logistics support and regular transportation schedules.",
-      "imagePrompt": "Photorealistic collage-style image showing various logistics operations in Nigerian industrial setting: heavy trucks being loaded, warehouse with organized shelving, workers in safety gear managing inventory, forklift operations, modern logistics technology, professional and efficient atmosphere",
+      "copy": "Off-Grid Solar Power Systems: Complete design and installation of standalone solar systems with battery storage, ensuring 24/7 power availability without grid dependency.\n\nHybrid Power Solutions: Intelligent systems combining solar, grid, and generator power with automatic switching for maximum reliability and fuel savings.\n\nIndustrial Solar Installations: Heavy-duty solar power plants for factories, processing plants, and manufacturing facilities with load capacities from 50kW to multi-megawatt scales.\n\nCommercial Solar Systems: Tailored solutions for offices, hotels, shopping complexes, and warehouses with seamless integration and minimal downtime.\n\nSolar Water Pumping: Reliable solar-powered pumping systems for industrial processes, agriculture, and water distribution.\n\nEnergy Audits & Consulting: Professional assessment of your current power consumption with customized recommendations for optimal solar integration and maximum ROI.\n\nMaintenance & Monitoring: Comprehensive after-sales support with remote monitoring, preventive maintenance, and rapid response technical service.\n\nBattery Storage Systems: Advanced lithium-ion and lead-acid battery banks with intelligent management systems for extended backup duration.",
+      "imagePrompt": "Grid layout showcasing diverse solar energy applications: industrial solar farm with large panels, commercial rooftop installation, solar water pumping system, battery storage room with modern inverter systems, Nigerian industrial and commercial settings, professional technical photography, bright clean aesthetic, photorealistic detail",
       "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose NJD Jay Solar Solutions",
+      "copy": "Strategic Location: Situated in Eleme, the industrial hub of Rivers State, we provide rapid response and support to oil & gas facilities, manufacturing plants, and businesses across the Niger Delta region.\n\nIndustry Expertise: Our renewable energy strategists combine deep understanding of Nigeria's power challenges with international best practices in solar technology.\n\nProven Track Record: Successfully deployed off-grid systems across industrial, commercial, and residential sectors with documented energy cost savings of 60-85%.\n\nQuality Equipment: We source only Tier-1 solar panels, German-engineered inverters, and premium battery systems with manufacturer warranties up to 25 years.\n\nComplete Project Management: From site assessment and system design through installation, commissioning, and ongoing maintenance - we handle everything.\n\nLocal Support: Nigerian-owned and operated with technical teams available for same-day emergency response in Rivers State and surrounding areas.\n\nCustomized Financing: Flexible payment plans and financing options to make clean energy accessible to businesses of all sizes.\n\nGuaranteed Performance: We stand behind every installation with comprehensive warranties and performance guarantees.",
+      "imagePrompt": "Professional handshake between Nigerian renewable energy consultant and industrial client in front of newly commissioned solar installation, industrial facility background, completed solar panel array visible, Nigerian business setting, professional corporate photography, confident and trustworthy atmosphere, photorealistic",
+      "layout": "cards"
     },
     {
       "id": "contact",
       "name": "Contact Us",
-      "copy": "Ready to streamline your manufacturing logistics? Contact J Saraki Logistics and Supply today for reliable, professional service. We're here to support your business operations with comprehensive logistics solutions tailored to your needs. Reach out now for quotes, inquiries, or to discuss how we can serve your manufacturing facility.",
-      "imagePrompt": "Professional photorealistic image of modern Nigerian business office reception area, clean and organized with industrial aesthetic, large windows showing trailer park outside, professional atmosphere, welcoming environment, natural lighting, contemporary design",
+      "copy": "Ready to eliminate power outages and slash your energy costs? Contact NJD Jay Solar Solutions Limited today for a free site assessment and customized solar proposal.\n\nVisit our office at Indorama Petrochemical Model Trailer Park, Refinery Road, Eleme Local Government Area, Rivers State.\n\nCall us on 0803 278 7170 for immediate assistance.\n\nOur renewable energy strategists are available Monday to Saturday, 8:00 AM - 6:00 PM to discuss your power needs and provide expert guidance.\n\nWhether you're planning a new facility or upgrading existing infrastructure, we'll design an off-grid power solution that delivers reliable, clean energy for decades to come.\n\nRequest a quote today and discover why leading Nigerian businesses trust NJD Jay Solar Solutions for their renewable energy needs.",
+      "imagePrompt": "Modern professional office reception area with solar energy displays and technical equipment visible, welcoming Nigerian business environment, large windows showing solar panels outside, professional staff ready to assist, Eleme Rivers State location, bright inviting atmosphere, photorealistic corporate interior",
       "layout": "centered"
     }
   ],
   "contact": {
     "phone": "+234 803 278 7170",
-    "email": "info@jsarakilogistics.com",
+    "email": "info@njdjay.com",
     "address": "Indorama Petrochemical Model Trailer Park, Refinery Road, Eleme Local Government Area, Rivers State, Nigeria",
     "whatsapp": "https://wa.me/2348032787170"
   }
